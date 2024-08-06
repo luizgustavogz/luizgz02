@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0842A9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CA3F4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Luiz+Gustavo!;I'm+from+Brazil+and+i'm+21+years+old;I+Graduated+Computer+Science+at+2023;I'm+a+Backend+Developer;Be+Welcome!;Oi,+Meu+nome+é+Luiz+Gustavo!;Eu+sou+Brasileiro+e+tenho+21+anos+de+idade;Me+formei+em+Ciência+da+Computação+em+2023;Eu+sou+Desenvolvedor+Backend;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CA3F4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Luiz+Gustavo!;I'm+from+Brazil+and+i'm+22+years+old;I+Graduated+Computer+Science+at+2023;I'm+a+Backend+Developer;Be+Welcome!;Oi,+Meu+nome+é+Luiz+Gustavo!;Eu+sou+Brasileiro+e+tenho+22+anos+de+idade;Me+formei+em+Ciência+da+Computação+em+2023;Eu+sou+Desenvolvedor+Backend;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizgustavogz&bg_color=0d1117&title_color=dcc70a&color=3CA3F4&line=dcc70a&point=3CA3F4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
